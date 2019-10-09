@@ -1,6 +1,6 @@
 {
 	"name": "strict-cookie-middleware",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Parses cookie headers for Connect/Express applications according to RFC 6265.",
 	"keywords": [
 		"cookie",
@@ -23,7 +23,7 @@
 		"url": "https://github.com/charmander/strict-cookie-middleware"
 	},
 	"dependencies": {
-		"strict-cookie-parser": "3.0.0"
+		"strict-cookie-parser": "3.1.0"
 	},
 	"devDependencies": {
 		"@charmander/eslint-config-base": "1.1.0"
